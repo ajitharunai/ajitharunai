@@ -1,5 +1,34 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Ajith Kumar M</h1>
+<h3 align="center">A passionate Data scientist | Research Engineer| Full Stack Web developer from Tamil Nadu</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitharunai&label=Profile%20views&color=0e75b6&style=flat" alt="ajitharunai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mpajithkumar1" target="blank"><img src="https://img.shields.io/twitter/follow/mpajithkumar1?logo=twitter&style=for-the-badge" alt="mpajithkumar1" /></a> </p>
+
+- 🔭 I’m currently working on [Text to Speech convertor](https://ajitharunai.github.io/Text-To-Speech-Converter/)
+
+- 🌱 I’m currently learning **Machine Learning | Deep Learning | React Jss | Portfolio**
+
+- 👯 I’m looking to collaborate on [Google](https://www.google.com/)
+
+- 🤝 I’m looking for help with [I-Grow Association | AEC](https://arunai-cse.blogspot.com/)
+
+- 👨‍💻 All of my projects are available at [https://ajicreations.blogspot.com/](https://ajicreations.blogspot.com/)
+
+- 📝 I regularly write articles on [https://ajicreations.netlify.app/](https://ajicreations.netlify.app/)
+
+- 💬 Ask me about **Machine Learning | Deep Learning |Portfolio| Blogger| Web Development**
+
+- 📫 How to reach me **ajithkumaraec10@gmail.com**
+
+- 📄 Know about my experiences [https://ajitharunai.netlify.app/](https://ajitharunai.netlify.app/)
+
+- ⚡ Fun fact **“One struggle I’ve had that has made me who I am is….”**
+
 
 
 ## 🌐Socials
