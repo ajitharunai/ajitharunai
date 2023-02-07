@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajith</h1>
 <h3 align="center">A passionate Data scientist | Research Engineer| Full Stack Web developer| Content Creator | Youtuber⬆️</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitharunai&label=Profile%20views&color=0e75b6&style=flat" alt="ajitharunai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
