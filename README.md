@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
- 🔭 I’m currently working on [Developer-Portfolio](https://ajicreations.netlify.app/)<br><br>- 🌱 I’m currently learning **Mern Stack | Deep Learning**<br><br>- 👯 I’m looking to collaborate on [OpenAI](https://openai.com/)<br><br>- 🤝 I’m looking for help with [ChatGPT](https://chat.openai.com/chat)<br><br>- 👨‍💻 All of my projects are available at [https://ajicreations.vercel.app/#/](https://ajicreations.vercel.app/#/)<br><br>- 📝 I regularly write articles on [https://medium.com/@ajitharunai](https://medium.com/@ajitharunai)<br><br>- 💬 Ask me about **Machine Learning | Web Development | Git**<br><br>- 📫 How to reach me **ajithkumaraec10@gmail.com**<br><br>- 📄 Know about my experiences [http://bit.ly/3Yl9fMS](http://bit.ly/3Yl9fMS)<br>
+ 🔭 I’m currently working on [Developer-Portfolio](https://ajicreations.vercel.app/#/)<br><br>- 🌱 I’m currently learning **Mern Stack | Deep Learning**<br><br>- 👯 I’m looking to collaborate on [OpenAI](https://openai.com/)<br><br>- 🤝 I’m looking for help with [ChatGPT](https://chat.openai.com/chat)<br><br>- 👨‍💻 All of my projects are available at [https://ajicreations.vercel.app/](https://ajicreations.vercel.app/)<br><br>- 📝 I regularly write articles on [https://medium.com/@ajitharunai](https://medium.com/@ajitharunai)<br><br>- 💬 Ask me about **Machine Learning | Web Development | Git**<br><br>- 📫 How to reach me **ajithkumaraec10@gmail.com**<br><br>- 📄 Know about my experiences [http://bit.ly/3Yl9fMS](http://bit.ly/3Yl9fMS)<br>
 
 
 ## 🌐 Socials:
